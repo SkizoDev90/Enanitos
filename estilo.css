@@ -1,8 +1,10 @@
 body{
-    border: 10px;
+    pos
+    border: 10px solid black;
     width: 1260px;  /*1260px+20px=1280px*/
     height: 780px;  /*780px+20=800px*/
     background-color: blanchedalmond;
+    margin: auto;
 }
 #camasArriba>label{
     display: inline-block;
